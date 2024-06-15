@@ -1,2 +1,6 @@
 initial content 
+<<<<<<< HEAD
 change from c2
+=======
+change from dir1
+>>>>>>> 7e051bb880ba9a91080d3ba25b76463c3167275e
